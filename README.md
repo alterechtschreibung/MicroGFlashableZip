@@ -39,6 +39,9 @@ https://github.com/microg/AppleWifiNlpBackend
 - install UnifiedNlp geocoder backend
 https://github.com/microg/NominatimGeocoderBackend
 
+- install GSM LocationProvider backend for µg UnifiedNlp
+https://github.com/n76/Local-GSM-Backend/
+
 - install microG FakeStore
 https://github.com/microg/android_packages_apps_FakeStore
 https://github.com/microg 
@@ -57,3 +60,4 @@ Google Play Store: system/priv-app/Phonesky/Phonesky.apk
 Sources for parts under a copyleft license can be found in the SourceCode folder of the MicroGCompleteSources.zip file. 
 You can also find the links to the other projects there. 
 
+Unfortunately Github doesn't allow large files. Thus you have to combine the three parts with 7zip (File > Combine files)

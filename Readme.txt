@@ -36,6 +36,9 @@ https://github.com/microg/AppleWifiNlpBackend
 - install UnifiedNlp geocoder backend
 https://github.com/microg/NominatimGeocoderBackend
 
+- install GSM LocationProvider backend for µg UnifiedNlp
+https://github.com/n76/Local-GSM-Backend/
+
 - install microG FakeStore
 https://github.com/microg/android_packages_apps_FakeStore
 https://github.com/microg 
