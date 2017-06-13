@@ -3,7 +3,7 @@ This repository contains flashable zip files for the MicroG GMS Core Project for
 
 This are flashable zip files for the microG project. 
 MicroGCompleteFOSS.zip requires an arm64 LineageOS 14.1
-MicroGCompleteFOSSUniversalArm64.zip requires an arm64 Android 7 (Android 6 should work too, but is untested)
+MicroGCompleteFOSSUniversalArm64.zip requires an arm64 Android 7+ (Android 6 should work too, but is untested)
 
 MicroGCompleteFOSS.zip  installs the addonsu for root (requires LineageOS 14.1):
 https://download.lineageos.org/extras
